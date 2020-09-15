@@ -1,6 +1,6 @@
 {
   "name": "thing-adjuster",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adjust a thing based on a metric",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
     "scale"
   ],
   "author": "Ethan Witherington (https://ewitherington.me)",
+  "repository": "github:Navigatron/thing-adjuster",
   "license": "MIT"
 }
