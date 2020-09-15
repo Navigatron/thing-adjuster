@@ -1,0 +1,15 @@
+{
+  "name": "thing-adjuster",
+  "version": "1.0.0",
+  "description": "Adjust a thing based on a metric",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "load",
+    "scale"
+  ],
+  "author": "Ethan Witherington (https://ewitherington.me)",
+  "license": "MIT"
+}
